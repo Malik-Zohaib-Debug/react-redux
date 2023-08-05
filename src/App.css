@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  margin-top: 10%;
+}
+
+.counter__controls{
+  background-color: rgb(219, 217, 217);
+  display: flex;
+  justify-content: center;
+  width: 15%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.counter__controls > button{
+  padding: 30px;
+  margin-left: 50px;
+  margin-right: 50px;
+  font-size: 30px;
+}
+
+.counter__controls > p {
+  background-color: white;
+  padding: 40px;
+  color: gray;
+  font-size: 30px;
+}
+
